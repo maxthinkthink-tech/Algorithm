@@ -393,3 +393,4 @@ python forecast.py --sku SKU001 --days 30
 
 也就是 **训练 → 评估 → 预测**。
 
+[M5 Walmart 测试数据集](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data?utm_source=chatgpt.com)
